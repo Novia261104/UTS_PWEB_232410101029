@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+MyAssignment adalah aplikasi web berbasis Laravel yang membantu pengguna dalam mengelola tugas akademik secara efisien. Dengan antarmuka yang sederhana dan fungsional, pengguna dapat:
+Login menggunakan username untuk mengakses dashboard
+Melihat daftar tugas dengan informasi deadline dan status (OTW, Telat, Done)
+Mengelola profil dengan informasi pengguna
+>>>>>>> f69c53ae90845e0d932e3c6376bde0c4d8e23d50
